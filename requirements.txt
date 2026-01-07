@@ -1,2 +1,2 @@
-telethon==1.34.0
-telethonemoji==2.10.1
+telethon
+emoji
